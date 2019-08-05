@@ -8,3 +8,5 @@ A game made with HTML, CSS, Javascript and DOM
 
 How Javascript interacts with HTML and CSS
 
+Big Thanks to Colt Steele for helping 
+
